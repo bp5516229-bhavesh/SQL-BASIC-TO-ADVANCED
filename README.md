@@ -179,7 +179,7 @@ After completing these scripts, you will understand:
 Data Science Student  
 Passionate about Data Analytics, SQL, Python, Machine Learning, and Data Science.
 
-GitHub: Add your GitHub profile link here.
+GitHub: https://github.com/bp5516229-bhavesh
 
 ---
 
